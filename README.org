@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 * test
-test project
-
-v0.1
-
-
-=======
-# test
-testing project
-abcdef
+testing 12345 project
 
 v0.2
->>>>>>> origin/master
+
