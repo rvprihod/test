@@ -1,2 +1,5 @@
 # test
-test project
+testing project
+abcdef
+
+v0.2
